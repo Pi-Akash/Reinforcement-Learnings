@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 25 17:48:40 2021
+
+@author: P Akash
+"""
+
+# changes required to convert our manual controlled snake game to AI controlled snake game
+1. After each game our agent should be able to reset the game and start with a new game.
+2. Implement a reward system.
+3. Implement play(action) function that takes in action and computes the direction.
+4. keep track of game iteration to make sure game does not runs too long if the snake does not collides or eats the food.
+5. a change in is_collision functions
